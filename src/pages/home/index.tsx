@@ -41,6 +41,7 @@ function Index() {
           </div>
         </div>
       </div>
+<br/><br/><br/>
       <div>
         saparate state
         <div style={{ display: "flex", gap: "12px" }}>
